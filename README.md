@@ -28,9 +28,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/Express-333333?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248"/>
-  <img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05032"/>
 </p>
 
 ---
