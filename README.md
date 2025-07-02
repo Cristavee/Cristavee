@@ -1,15 +1,15 @@
--<h1 align="center">Hi, Aku Cristavee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
+-<h1 align="center"> Cristavee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></h1>
 
 <p align="center">
-  <em> Aku adalah orang yang tertarik dengan dunia digital.</em>
+  <em> tertarik dengan dunia digital.</em>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 Aku baru mulai belajar : **JavaScript, Dan NodeJs**
-- 💡 Aku sangat tertarik dengan teknologi, terutama di bidang AI
+- 🌱 baru mulai belajar : **JavaScript, Dan NodeJs**
+- 💡 tertarik dengan teknolog
 - 📫 Kontak saya             : cristianisme218@gmail.com
 
 ---
@@ -33,5 +33,5 @@
 ---
 
 <p align="center">
-  Made with ❤️ by Cristian
+  Made with ❤️ 
 </p>
