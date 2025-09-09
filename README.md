@@ -58,14 +58,14 @@
 
 ---
 
-## 🎵 Fun Fact
-> Saya suka belajar sambil ditemani musik, dan biasanya ide aneh muncul jam 2 pagi 🌙  
+## 🎵 Aku itu
+> suka belajar sambil ditemani musik, dan biasanya ide muncul jam 2 pagi 🌙  
 
 ---
 
 ## 🤝 Connect with Me
 <p align="left">
-  <a href="mailto:cristianisme218@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:cristaveoffc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/Cristavee"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
