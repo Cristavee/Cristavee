@@ -44,18 +44,11 @@
 ---
 
 ## 🚀 Project Showcase
-🔹 **ShiroBot** — WhatsApp Multifunction Bot berbasis Baileys-x  
-🔹 (soon...) gtw saya malas mikir 
+🔹 **ShiroBot** — WhatsApp Multifunction Bot berbasis Baileys   
+🔹 (soon...) gtw, malas mikir 
 
 ---
 
-## 🎯 Goals
-- ✔️ Membuat WhatsApp bot multifungsi  
-- ✔️ Belajar backend dan database handling  
-- 🔄 Sedang belajar AI/ML  
-- 🔜 Membangun project open source pertama    
-
----
 
 ## 🤝 Connect with Me
 <p align="left">
