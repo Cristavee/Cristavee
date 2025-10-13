@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cristavee 👉😜
+<p align="center"># 👋 Hi, I'm Cristavee 👉😜>
 
 💻 Exploring the world of code, one line at a time.  
 🎯 Fokus saat ini: belajar, berkembang, dan bikin sesuatu yang berguna 🚀  
