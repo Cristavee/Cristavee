@@ -1,10 +1,5 @@
 # <p align="center"> 👋 Hi, I'm Cristavee 👉😜</p>
 
-## ⚡ Lagi Pelajarin
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c" />
-</p>
-
 ---
 
 ## 📊 Statistik GitHub
@@ -15,12 +10,6 @@
 
 ---
 
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Cristavee&theme=tokyonight&hide_border=false" />
-</p>
-
----
 
 ## 🤝 Connect with Me
 <p align="left">
@@ -30,4 +19,4 @@
 
 ---
 
-*"Belajar setiap hari, meski cuma 1 huruf kode🤭."* 
+*"pengen belajar coding"* 
