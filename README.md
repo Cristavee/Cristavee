@@ -2,15 +2,6 @@
 
 ---
 
-## 📊 Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cristavee&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristavee&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
----
-
-
 ## 🤝 Connect with Me
 <p align="left">
   <a href="mailto:cristaveoffc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
